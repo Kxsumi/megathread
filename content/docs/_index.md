@@ -64,40 +64,40 @@ Use the on-page TOC on the right to jump between sections.
 
 ## 🏆 Greatest Treasures
 
-### 🧭 [All Purpose](/all_purpose)
+### 🧭 [All Purpose](/docs/all_purpose)
 Torrent search engines, aggregators, and DHT crawlers work together to collect public content.
 
-### ⭐ [Anime](/anime)
+### ⭐ [Anime](/docs/anime)
 Japanese animated entertainment with diverse genres and vibrant art style.
 
-### 📚 [Books](/books)
+### 📚 [Books](/docs/books)
 Manga, comics, and novels are mediums that combine text and images to convey information.
 
-### 🕹️ [Emulators](/emulators)
+### 🕹️ [Emulators](/docs/emulators)
 Simulating gaming console functions, while ROMs are digital game copies.
 
-### 🎮 [Games](/games)
+### 🎮 [Games](/docs/games)
 Electronic games played on a screen, involving interaction and challenges for entertainment.
 
-### 📱 [Mobile](/mobile)
+### 📱 [Mobile](/docs/mobile)
 Portable devices combining computing and telephone functions into a single OS like Android or iOS.
 
-### 🎦 [Movies & TV](/movies_tv)
+### 🎦 [Movies & TV](/docs/movies_tv)
 Visual storytelling to evoke emotions and engage viewers, reflecting the human experience.
 
-### 🎹 [Music](/music)
+### 🎹 [Music](/docs/music)
 Art of arranging sounds creates form, harmony, melody, rhythm, and expression.
 
-### ⚙️ [Software](/software)
+### ⚙️ [Software](/docs/software)
 Multitude of computer programs, files, and data tailored for desktops.
 
 ### 👟 [Sports](https://fmhy.net/videopiracyguide#live-tv-sports) • FMHY
 Competitive physical activities showcasing skill and entertainment for spectators.
 
-### 🧰 [Tools](/tools)
+### 🧰 [Tools](/docs/tools)
 Activation aids, userscripts, download managers, assistants, extensions, and more.
 
-### ☣️ [Unsafe Sites](/unsafe)
+### ☣️ [Unsafe Sites](/docs/unsafe)
 Reputation of these malicious websites has been tarnished by numerous serious offenses.
 
 ---
