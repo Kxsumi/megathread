@@ -1,0 +1,280 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>r/Piracy Megathread – Guides &amp; Resources</title>
+    <link>http://localhost:1313/docs/guides/</link>
+    <description>Recent content in Guides &amp; Resources on r/Piracy Megathread</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="http://localhost:1313/docs/guides/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Quality Control</title>
+      <link>http://localhost:1313/docs/guides/quality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/guides/quality/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;https://a.imagem.app/BjIeFl.png&#34; alt=&#34;Quality Control Banner&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h1&gt;👁️‍🗨️ ➜ &lt;a href=&#34;http://localhost:1313/docs/&#34;&gt;Megathread&lt;/a&gt; / &lt;strong&gt;Quality Control&lt;/strong&gt;&lt;/h1&gt;&lt;div style=&#34;background: rgba(251, 191, 36, 0.1); border-left: 4px solid #fbbf24; padding: 1.5rem; margin: 2rem 0; border-radius: 0.5rem;&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Quick reminder&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;⚖️ This section outlines the general conditions for updating the &lt;a href=&#34;http://localhost:1313/megathread&#34;&gt;Megathread&lt;/a&gt;, whether it involves adding or removing links. We prioritize finding a balance between different factors to make informed decisions within our operational framework.&lt;/li&gt;
+&lt;li&gt;🎲 &lt;strong&gt;Quantity is not our primacy concern&lt;/strong&gt;. The main focus lies in the meticulous curation of each entry.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2&gt;📑 Privacy and security&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-privacy-and-security&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-privacy-and-security&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Devoid of malware&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;devoid-of-malware&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#devoid-of-malware&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Ensuring the utmost safety and security of websites and downloads is of utmost importance. Therefore it is absolutely imperative to eliminate any presence of malware. Any website that falls short in meeting this requirement will be promptly labeled as an &lt;a href=&#34;http://localhost:1313/docs/unsafe/&#34;&gt;unsafe site&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;HTTPS Encryption&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;https-encryption&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#https-encryption&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Websites need to make use of &lt;a href=&#34;https://en.wikipedia.org/wiki/HTTPS&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTTPS&lt;/a&gt; encryption because it offers users privacy and security. Encrypting data serves as a shield against hackers, effectively concealing sensitive information. Moreover, it plays a crucial role in verifying the legitimacy of websites by utilizing digital certificates.&lt;/p&gt;
+&lt;h3&gt;Not located in the Five Eyes&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;not-located-in-the-five-eyes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#not-located-in-the-five-eyes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;It is encouraged that websites be located beyond the realm of the &lt;a href=&#34;https://en.wikipedia.org/wiki/Five_Eyes&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Five Eyes&lt;/a&gt; alliance, which includes the United States. This ensures that they fall outside the jurisdiction where certain copyright laws, such as the &lt;a href=&#34;https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Millennium Copyright Act&lt;/a&gt; (DMCA), cannot be fully enforced, or at all.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;📑 Quality of life&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-quality-of-life&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-quality-of-life&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Catalog size&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;catalog-size&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#catalog-size&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;In order for websites to be truly effective, it is crucial that they provide users with a diverse range of options. By offering a wide array of choices, websites can cater to the varied needs and preferences of their users.&lt;/p&gt;
+&lt;h3&gt;File hosting services&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;file-hosting-services&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#file-hosting-services&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;To guarantee a seamless and user-friendly experience, websites that employ direct download methods should rely on trustworthy and dependable free file hosters, so users can access and download files without any complications.&lt;/p&gt;
+&lt;h3&gt;Graphical user interface&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;graphical-user-interface&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#graphical-user-interface&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;It is important to offer a visually intuitive and interactive platform, enabling users to engage with the system in a more natural and user-friendly manner. Good design choices facilitate effortless navigation and enhance the efficiency of task execution for users.&lt;/p&gt;
+&lt;h3&gt;Minimal loading time&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;minimal-loading-time&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#minimal-loading-time&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Optimizing speed and catering to a diverse global audience is essential for websites. To achieve this, utilizing a &lt;a href=&#34;https://en.wikipedia.org/wiki/Content_delivery_network&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Content Delivery Network&lt;/a&gt; (CDN) is highly advantageous.&lt;/p&gt;
+&lt;h3&gt;Update frequency&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;update-frequency&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#update-frequency&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Keeping a website regularly updated with fresh content is essential to maintain user confidence and attractiveness. When a website lacks updates, it can create the impression of inactivity or financial instability.&lt;/p&gt;
+&lt;h3&gt;Zero anti-adblock popups&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;zero-anti-adblock-popups&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#zero-anti-adblock-popups&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Ideally, websites should refrain from implementing anti-adblock measures, but users can easily use &lt;a href=&#34;https://addons.mozilla.org/firefox/addon/ublock-origin/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;uBlock Origin&lt;/a&gt; to avoid encountering these annoyances. Additionally, if users come across any websites with such nuisances, they can report it to &lt;a href=&#34;https://www.reddit.com/r/uBlockOrigin/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;r/uBlockOrigin&lt;/a&gt; for efficient support.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;📑 Overall integrity&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-overall-integrity&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-overall-integrity&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Cross-references&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;cross-references&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#cross-references&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The authenticity of a website heavily depends on the general sentiment and plethora of experiences shared within numerous pirate-related communities, which can be found across a wide range of platforms, including both public and private trackers, as well as other indexes.&lt;/p&gt;
+&lt;h3&gt;Open source&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;open-source&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#open-source&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Having the code freely available for all to see, like on platforms such as &lt;a href=&#34;https://github.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;, is undeniably a great advantage. It adds a bonus to the overall trust of users when it comes to a website.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;🔗 Check Out More&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-check-out-more&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-check-out-more&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;📜 &lt;a href=&#34;http://localhost:1313/megathread&#34;&gt;Return to Megathread&lt;/a&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-return-to-megathread&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-return-to-megathread&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Torrenting &#43; VPN Guide</title>
+      <link>http://localhost:1313/docs/guides/torrenting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/guides/torrenting/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Background Information&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;background-information&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#background-information&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Torrenting Risks&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;torrenting-risks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#torrenting-risks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Torrenting is very different from direct downloads or streaming sites in that it operates on a peer-to-peer file sharing network.&lt;/li&gt;
+&lt;li&gt;In order to be able to share with others peers on the network, your IP address becomes visible to anyone in the torrent swarm.&lt;/li&gt;
+&lt;li&gt;In certain countries (Germany, USA, etc) there are specialized law firms that monitor and collect IP addresses participating in certain torrent swarms. These firms will send DMCA letters to the ISP who is responsible for that address, then the ISP will forward those letters to you. In Germany this can include demands for hundreds of euros in fines or face legal action. In the USA, this can result in temporary disruptions to your network connection, and eventually your ISP may cancel your service entirely.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;VPN&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;vpn&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#vpn&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Because of the risks mentioned above, a VPN becomes necessary to hide your IP address when torrenting in those countries.&lt;/li&gt;
+&lt;li&gt;A VPN routes your network traffic through a remote server, serving as a middle-man and hiding your home IP address.&lt;/li&gt;
+&lt;li&gt;When you torrent with a VPN, the IP address exposed in the torrent swarm is that of the VPN server, not your home IP. Because of this, torrent activity cannot be traced back to you, and therefore you will not receive DMCA letters.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Proper VPN Setup&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;proper-vpn-setup&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#proper-vpn-setup&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Simply using a VPN is NOT sufficient to fully hide your IP address.&lt;/li&gt;
+&lt;li&gt;There are many failure mechanisms that could leak your IP even when using a VPN.
+&lt;ul&gt;
+&lt;li&gt;User error (forgot to turn VPN on, closed VPN before exiting torrent application).&lt;/li&gt;
+&lt;li&gt;Momentary loss in VPN connection (VPN provider disconnect, local network problems, computer shutdown).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ANY loss in VPN connection, no matter how short (fractions of a second) is enough to leak your home IP and get you a DMCA letter.&lt;/li&gt;
+&lt;li&gt;Because of this, &lt;strong&gt;&amp;ldquo;binding&amp;rdquo; your VPN to your torrent client is required in order to completely eliminate the risk of IP leaks&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;WARNING: Kill Switches
+&lt;ul&gt;
+&lt;li&gt;Kill switches are NOT sufficient to protect you. They are reactionary and any delay in killing the application/connection will lead to your IP leaking.&lt;/li&gt;
+&lt;li&gt;Kill switches are not the same as binding your VPN.&lt;/li&gt;
+&lt;li&gt;Kill switches will fail eventually and you will get caught.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Choosing a VPN Provider&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;choosing-a-vpn-provider&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#choosing-a-vpn-provider&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;There are literally hundreds of VPN providers to choose from, how do you know which to pick?&lt;/li&gt;
+&lt;li&gt;Many factors come into consideration: price, speed, security (no-logs policy, based in country friendly to piracy), features (port forwarding, split tunneling).&lt;/li&gt;
+&lt;li&gt;Right now my recommendation for a VPN provider for torrenting would be &lt;a href=&#34;https://protonvpn.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Proton Premium&lt;/strong&gt;&lt;/a&gt;, but feel free to use your provider of choice (this guide will use Proton Premium as an example). &lt;a href=&#34;https://fmhy.net/privacy#vpn&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;FMHY&amp;rsquo;s VPN list&lt;/strong&gt;&lt;/a&gt; offers some alternatives.&lt;/li&gt;
+&lt;li&gt;Free VPN&amp;rsquo;s are not recommended for torrenting. Proton&amp;rsquo;s free plan DOES NOT SUPPORT torrenting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;Windows&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;windows&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#windows&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Installation&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;installation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#installation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Choose your VPN provider and install their application and sign in (download link for &lt;a href=&#34;https://protonvpn.com/download&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Proton&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Choose a VPN server to connect to in the VPN application.
+&lt;ul&gt;
+&lt;li&gt;Pick the closest server with the best ping. It is not necessary to choose a server in another country.&lt;/li&gt;
+&lt;li&gt;If your provider has P2P specific servers (like Proton), then be sure to choose one of those.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Install your torrent client (&lt;a href=&#34;https://www.qbittorrent.org/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;qBittorrent&lt;/strong&gt;&lt;/a&gt; highly recommended and will be used throughout this guide).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Bind Your VPN to Your Torrent Client (critical)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;bind-your-vpn-to-your-torrent-client-critical&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#bind-your-vpn-to-your-torrent-client-critical&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;In qBittorrent, go to Tools &amp;gt; Options &amp;gt; Advanced&lt;/li&gt;
+&lt;li&gt;Find the Network Interface setting and change it from &amp;ldquo;Any&amp;rdquo; to the option that matches your VPN.
+&lt;ul&gt;
+&lt;li&gt;For Proton the option will be either &amp;ldquo;ProtonVPN&amp;rdquo; or &amp;ldquo;ProtonVPN TUN&amp;rdquo; depending on whether you are using OpenVPN or Wireguard (per &lt;a href=&#34;https://protonvpn.com/support/bittorrent-vpn&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;THIS&lt;/a&gt; guide).&lt;/li&gt;
+&lt;li&gt;If you aren&amp;rsquo;t sure which interface is correct, go to Control Panel &amp;gt; Network and Internet &amp;gt; Network Connections. Find the adapter that your VPN is using here and choose that name in qBit.&lt;/li&gt;
+&lt;li&gt;If you still cannot determine which option is correct, try toggling your VPN off and on to see which option disappears / reappears from the qBit list.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Restart qBittorrent.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Test Your VPN Binding (optional but recommended)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;test-your-vpn-binding-optional-but-recommended&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#test-your-vpn-binding-optional-but-recommended&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Pause or remove all torrents currently in your torrent client&lt;/li&gt;
+&lt;li&gt;Turn on your VPN&lt;/li&gt;
+&lt;li&gt;Disable any kill switch you may use, we don&amp;rsquo;t want to test the kill switch, we want to test the binding&lt;/li&gt;
+&lt;li&gt;Go to ipleak.net&lt;/li&gt;
+&lt;li&gt;Click &amp;ldquo;activate&amp;rdquo; button under &amp;ldquo;torrent address detection&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Click &amp;ldquo;add this magnet link&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Torrent will be added to your torrent client&lt;/li&gt;
+&lt;li&gt;You should see only your VPN IP address in the browser in the &amp;ldquo;torrent address detection&amp;rdquo; section (ignore all the other sections, they don&amp;rsquo;t matter for torrenting)&lt;/li&gt;
+&lt;li&gt;NOW, SHUT OFF YOUR VPN (leave your torrent client running)&lt;/li&gt;
+&lt;li&gt;You should still see only your VPN IP in the torrent detection list (or nothing at all)&lt;/li&gt;
+&lt;li&gt;IF AT ANY POINT YOU SEE YOUR HOME IP ADDRESS (in the &amp;ldquo;torrent adress detection&amp;rdquo; section), SOMETHING IS WRONG. Go back and retry VPN binding steps / choose different network adapter.&lt;/li&gt;
+&lt;li&gt;Additional testing (optional): go to &lt;a href=&#34;https://fosstorrents.com/distributions/arcolinux/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;FossTorrents&lt;/strong&gt;&lt;/a&gt;, click the magnet link for ArcoNet (popular Linux Distro), let the torrent start and then verify that your download speed in your torrent client drops to zero when you disconnect from your VPN (will take a few minutes to drop all the way to zero).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Exclude Problematic File Extensions (optional but recommended)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;exclude-problematic-file-extensions-optional-but-recommended&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#exclude-problematic-file-extensions-optional-but-recommended&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;In qBittorrent, go to Tools &amp;gt; Options &amp;gt; Downloads &amp;gt; Excluded File Names
+&lt;ul&gt;
+&lt;li&gt;In the excluded file names list in the qB settings add the extensions you want to exclude, ONE EXTENSION PER LINE. Put an asterisk (wildcard) before each extension. I would recommend blocking AT LEAST the following three extensions:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;*.lnk
+*.scr
+*.arj&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Set up Port Forwarding (optional but recommended)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;set-up-port-forwarding-optional-but-recommended&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#set-up-port-forwarding-optional-but-recommended&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Enable port forwarding in your VPN app and find your forwarded port number in your VPN client (Proton guide shown &lt;a href=&#34;https://protonvpn.com/support/port-forwarding#windows&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;HERE&lt;/strong&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;In qBittorrent, go to Tools &amp;gt; Options &amp;gt; Connections (Proton guide shown &lt;a href=&#34;https://protonvpn.com/support/port-forwarding#qbittorrent&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;HERE&lt;/strong&gt;&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Uncheck the &amp;ldquo;Use UPnP / NAT-PMP port forwarding from my router&amp;rdquo; option.&lt;/li&gt;
+&lt;li&gt;In the &amp;ldquo;Port used for incoming connections&amp;rdquo; field, enter the port number you found in your VPN app.&lt;/li&gt;
+&lt;li&gt;Click OK when you&amp;rsquo;re done.&lt;/li&gt;
+&lt;li&gt;To verify it&amp;rsquo;s working, after a few minutes you should see the small orange flame icon at the bottom of the qBittorrent window change into either a green plug or a green globe icon.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Set up Split Tunneling (optional but recommended)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;set-up-split-tunneling-optional-but-recommended&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#set-up-split-tunneling-optional-but-recommended&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;In your VPN application, enable the option for split tunneling (Proton guide shown &lt;a href=&#34;https://protonvpn.com/support/protonvpn-split-tunneling#windows&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;HERE&lt;/strong&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;In the Split Tunneling options, set qBittorrent to be &amp;ldquo;Included&amp;rdquo; in the VPN tunnel.&lt;/li&gt;
+&lt;li&gt;Set all other applications to be &amp;ldquo;Excluded&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;Android&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;android&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#android&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div style=&#34;background: rgba(59, 130, 246, 0.1); border-left: 4px solid #3b82f6; padding: 1.5rem; margin: 2rem 0; border-radius: 0.5rem;&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Android Limitations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There are a number of downsides to torrenting on an Android device rather than a PC:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Port forwarding generally not supported by VPN providers on Android.&lt;/li&gt;
+&lt;li&gt;Inability to block file extensions.&lt;/li&gt;
+&lt;li&gt;Many private trackers do not allow Android clients.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Still, torrenting CAN be done safely with the following recommendations.&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt;Installation&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;installation-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#installation-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Choose your VPN provider and install their application and sign in (download link for &lt;a href=&#34;https://play.google.com/store/apps/details?id=ch.protonvpn.android&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Proton&lt;/strong&gt;&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Choose a VPN server to connect to in the VPN application.
+&lt;ul&gt;
+&lt;li&gt;Pick the closest server with the best ping. It is not necessary to choose a server in another country.&lt;/li&gt;
+&lt;li&gt;If your provider has P2P specific servers (like Proton), then be sure to choose one of those.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Install your torrent client (&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.delphicoder.flud&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Flud&lt;/strong&gt;&lt;/a&gt; highly recommended and will be used throughout this guide).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Bind Your VPN to Your Torrent Client (critical)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;bind-your-vpn-to-your-torrent-client-critical-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#bind-your-vpn-to-your-torrent-client-critical-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;In Flud, go to Settings &amp;gt; Privacy and Security
+&lt;ul&gt;
+&lt;li&gt;Check the &amp;ldquo;VPN Only&amp;rdquo; box.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Now in Flud, go to Settings &amp;gt; Advanced
+&lt;ul&gt;
+&lt;li&gt;Change the Network Interface from &amp;ldquo;Any&amp;rdquo; to the option that matches your VPN.&lt;/li&gt;
+&lt;li&gt;If you cannot determine which option is correct, try toggling your VPN off and on to see which option disappears / reappears from the list.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Test Your VPN Binding (optional but recommended)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;test-your-vpn-binding-optional-but-recommended-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#test-your-vpn-binding-optional-but-recommended-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Pause or remove all torrents currently in your torrent client&lt;/li&gt;
+&lt;li&gt;Turn on your VPN&lt;/li&gt;
+&lt;li&gt;Disable any kill switch you may use, we don&amp;rsquo;t want to test the kill switch, we want to test the binding&lt;/li&gt;
+&lt;li&gt;Go to ipleak.net&lt;/li&gt;
+&lt;li&gt;Click &amp;ldquo;activate&amp;rdquo; button under &amp;ldquo;torrent address detection&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Click &amp;ldquo;add this magnet link&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Torrent will be added to your torrent client&lt;/li&gt;
+&lt;li&gt;You should see only your VPN IP address in the browser in the &amp;ldquo;torrent adress detection&amp;rdquo; section (ignore all the other sections, they don&amp;rsquo;t matter for torrenting)&lt;/li&gt;
+&lt;li&gt;NOW, SHUT OFF YOUR VPN (leave your torrent client running)&lt;/li&gt;
+&lt;li&gt;You should still see only your VPN IP in the torrent detection list (or nothing at all)&lt;/li&gt;
+&lt;li&gt;IF AT ANY POINT YOU SEE YOUR HOME IP ADDRESS (in the &amp;ldquo;torrent adress detection&amp;rdquo; section), SOMETHING IS WRONG. Go back and retry VPN binding steps / choose different network adapter.&lt;/li&gt;
+&lt;li&gt;Additional testing (optional): go to &lt;a href=&#34;https://fosstorrents.com/distributions/arcolinux/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;FossTorrents&lt;/strong&gt;&lt;/a&gt;, click the magnet link for ArcoNet (popular Linux Distro), let the torrent start and then verify that your download speed in your torrent client drops to zero when you disconnect from your VPN (will take a few minutes to drop all the way to zero).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Set up Split Tunneling (optional but recommended)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;set-up-split-tunneling-optional-but-recommended-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#set-up-split-tunneling-optional-but-recommended-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;In your VPN application, enable the option for split tunneling (Proton guide shown &lt;a href=&#34;https://protonvpn.com/support/protonvpn-split-tunneling#android&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;HERE&lt;/strong&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;In the Split Tunneling options, set Flud to be &amp;ldquo;Included&amp;rdquo; in the VPN tunnel.&lt;/li&gt;
+&lt;li&gt;Set all other applications to be &amp;ldquo;Excluded&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;Torrent Sites&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;torrent-sites&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#torrent-sites&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div style=&#34;background: rgba(59, 130, 246, 0.1); border-left: 4px solid #3b82f6; padding: 1.5rem; margin: 2rem 0; border-radius: 0.5rem;&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Be sure to follow the guide above to safely set up your torrent client + VPN before proceeding, ESPECIALLY binding your VPN to your torrent client.&lt;/li&gt;
+&lt;li&gt;Use &lt;a href=&#34;https://www.firefox.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Firefox&lt;/strong&gt;&lt;/a&gt; + &lt;a href=&#34;https://addons.mozilla.org/firefox/addon/ublock-origin/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;uBlock Origin&lt;/strong&gt;&lt;/a&gt;.
+&lt;ul&gt;
+&lt;li&gt;Firefox is the top non-Chromium browser. Google has been making changes to neuter ad blocking capability on its Chrome browser, and these changes are expected to eventually take effect Chromium-based browsers as well.&lt;/li&gt;
+&lt;li&gt;Firefox also has the &lt;a href=&#34;https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;best compatibility&lt;/strong&gt;&lt;/a&gt; with uBlock Origin, an addon that is very efficient at blocking ads and redirects. UBO is currently the most effective ad blocker. Do not assume that other ad blockers are sufficient, often times they are not.&lt;/li&gt;
+&lt;li&gt;Pirate sites are notorious for having malicious ads and redirects. Proper ad blocking is not simply a convenience, it is a NECESSITY for SAFETY.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Choose a torrent site from &lt;a href=&#34;https://fmhy.net/torrenting&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;FMHY&amp;rsquo;s Torrent Sites List&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Heed warnings on FMHY specifically around software and games. These should only be sourced from a very specific subset of torrent options.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;div style=&#34;background: rgba(59, 130, 246, 0.1); border-left: 4px solid #3b82f6; padding: 1.5rem; margin: 2rem 0; border-radius: 0.5rem;&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Guide Verification&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This guide was made by: &lt;a href=&#34;https://www.reddit.com/user/LZ129Hindenburg/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;LZ129Hindenburg&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+      </description>
+    </item>
+    
+  </channel>
+</rss>
