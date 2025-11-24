@@ -16,7 +16,7 @@
 </div>
 
 <div style="width: 280px;">
-<img src="/images/logo.png" alt="Logo" style="width: 100%; height: auto; border-radius: 1rem;">
+<img src="/megathread/images/logo.png" alt="Logo" style="width: 100%; height: auto; border-radius: 1rem;">
 </div>
 
 </div>
