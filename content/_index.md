@@ -9,7 +9,7 @@
 <p style="font-size: 1.25rem; color: #9ca3af; margin: 2rem 0;">View the home page.</p>
 
 <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-<a href="/megathread/" style="background: #6366f1; color: white; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 500; display: inline-block;">Home</a>
+<a href="/megathread/docs/" style="background: #6366f1; color: white; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 500; display: inline-block;">Home</a>
 <a href="https://discord.gg/hKuyWtCSRU" target="_blank" style="background: #374151; color: white; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 500; display: inline-block;">Join the Discord</a>
 </div>
 
